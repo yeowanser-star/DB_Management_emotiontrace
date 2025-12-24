@@ -39,9 +39,10 @@ DeepSeek API Key
 MySQL 数据库连接凭证
 
 #### 4. 运行系统
-Bash
 
+```Bash
 streamlit run app.py
+```
 ### 📊 数据库结构说明
 项目依赖 database_scrpit.sql 进行初始化。
 
